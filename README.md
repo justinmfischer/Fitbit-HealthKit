@@ -1,2 +1,2 @@
 # Fitbit-HealthKit
-An iOS app which bulk exports Fitbit Aira Scale Weight (Pounds), Body Mass Index (BMI), Body Fat Percentage (BFP) and Imports the data info Apple's HealthKit.
+An iOS app which bulk imports Fitbit Aira scale CSV Weight (Pounds), Body Mass Index (BMI) and Body Fat Percentage (BFP) measurement data into Apple's HealthKit. This pattern can be more broadly expanded to include other HKQuantityTypeIdentifiers which include Steps, Running, Walking, Cycling, Etc.
