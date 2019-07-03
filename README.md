@@ -1,6 +1,8 @@
 # Fitbit-HealthKit
 An iOS app which bulk imports Fitbit Aira scale CSV Weight (Pounds), Body Mass Index (BMI) and Body Fat Percentage (BFP) measurement data into Apple's HealthKit. This pattern can be more broadly expanded to include other HKQuantityTypeIdentifiers which include Steps, Running, Walking, Cycling, Etc.
 
+While this example uses local data, it could be further enhanced by leveraging the Fitbit REST APIs and OAuth 2.0.
+
 # Example
 ![alt text](https://github.com/justinmfischer/Fitbit-HealthKit/blob/master/Github/health-importer.gif "Example")
 
