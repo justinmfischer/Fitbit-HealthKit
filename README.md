@@ -10,21 +10,21 @@ While this example uses local data, it could be further enhanced by leveraging t
 
 # 1. Request data archive from Fitbit
 <kbd>![alt text](https://github.com/justinmfischer/Fitbit-HealthKit/blob/master/Github/fitbit-archive.png "Archive")</kbd>
-![alt text](https://github.com/justinmfischer/Fitbit-HealthKit/blob/master/Github/fitbit-archive-confirm.png "Confirm")
-![alt text](https://github.com/justinmfischer/Fitbit-HealthKit/blob/master/Github/fitbit-archive-complete.png "Complete")
+<kbd>![alt text](https://github.com/justinmfischer/Fitbit-HealthKit/blob/master/Github/fitbit-archive-confirm.png "Confirm")</kbd>
+<kbd>![alt text](https://github.com/justinmfischer/Fitbit-HealthKit/blob/master/Github/fitbit-archive-complete.png "Complete")</kbd>
 
 # 2. Install jq (lightweight and flexible command-line JSON processor) https://stedolan.github.io/jq
-![alt text](https://github.com/justinmfischer/Fitbit-HealthKit/blob/master/Github/jq.png "Download")
+<kbd>![alt text](https://github.com/justinmfischer/Fitbit-HealthKit/blob/master/Github/jq.png "Download")</kbd>
 
 # 3. Copy the weight.json files from the archive ▸ user-site-export into Health-Import⁩ ▸ ⁨App⁩ ▸ ⁨Data⁩ ▸ ⁨Fitbit⁩ ▸ BodyMeasurements
 
-![alt text](https://github.com/justinmfischer/Fitbit-HealthKit/blob/master/Github/user-site-export.png "Export")
-![alt text](https://github.com/justinmfischer/Fitbit-HealthKit/blob/master/Github/body-measurements.png "Import")
+<kbd>![alt text](https://github.com/justinmfischer/Fitbit-HealthKit/blob/master/Github/user-site-export.png "Export")</kbd>
+<kbd>![alt text](https://github.com/justinmfischer/Fitbit-HealthKit/blob/master/Github/body-measurements.png "Import")</kbd>
 
 # 4. Run json2csv.sh
 
-![alt text](https://github.com/justinmfischer/Fitbit-HealthKit/blob/master/Github/cli-1.png "CLI")
-![alt text](https://github.com/justinmfischer/Fitbit-HealthKit/blob/master/Github/cli-2.png "CLI")
+<kbd>![alt text](https://github.com/justinmfischer/Fitbit-HealthKit/blob/master/Github/cli-1.png "CLI")</kbd>
+<kbd>![alt text](https://github.com/justinmfischer/Fitbit-HealthKit/blob/master/Github/cli-2.png "CLI")</kbd>
 
 # 5. Run Health-Importer on device
 
