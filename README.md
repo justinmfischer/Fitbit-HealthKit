@@ -4,12 +4,12 @@ An iOS app which bulk imports Fitbit Aira scale CSV Weight (Pounds), Body Mass I
 While this example uses local data, it could be further enhanced by leveraging the Fitbit REST APIs and OAuth 2.0.
 
 # Example
-<kbd>![alt text](https://github.com/justinmfischer/Fitbit-HealthKit/blob/master/Github/health-importer.gif "Example")</kbd>
+![alt text](https://github.com/justinmfischer/Fitbit-HealthKit/blob/master/Github/health-importer.gif "Example")
 
 # Getting started
 
 # 1. Request data archive from Fitbit
-![alt text](https://github.com/justinmfischer/Fitbit-HealthKit/blob/master/Github/fitbit-archive.png "Archive")
+<kbd>![alt text](https://github.com/justinmfischer/Fitbit-HealthKit/blob/master/Github/fitbit-archive.png "Archive")</kbd>
 ![alt text](https://github.com/justinmfischer/Fitbit-HealthKit/blob/master/Github/fitbit-archive-confirm.png "Confirm")
 ![alt text](https://github.com/justinmfischer/Fitbit-HealthKit/blob/master/Github/fitbit-archive-complete.png "Complete")
 
